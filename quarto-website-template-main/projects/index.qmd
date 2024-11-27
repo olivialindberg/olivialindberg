@@ -1,7 +1,0 @@
----
-title: Research
----
-
-## Interests and Goals
-
-I am most interested in clinical trial design, and specifically in applications to health disparities. My current research work is in intervention trials. I am pursuing my PhD with the hope of creating more diverse clinical trials and increasing representation for underserved communities. My long-term goal is to become a professor and teach classes in public health and/or statistics.
